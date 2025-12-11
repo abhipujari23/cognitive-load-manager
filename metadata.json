@@ -1,0 +1,7 @@
+{
+  "name": "Cognitive Load Manager",
+  "description": "An AI-powered externalized brain to capture, structure, and delegate mental clutter, featuring ambient capture and decision matrices.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
